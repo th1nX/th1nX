@@ -8,6 +8,7 @@ ____
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/Lua-%23005073?style=for-the-badge&logo=lua&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5)
